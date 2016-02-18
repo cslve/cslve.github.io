@@ -1,0 +1,27 @@
+# Site navigation links
+
+- title: Acerca 
+  url: /acerca
+  excerpt: Quiénes somos
+  image:
+
+- title: CPCYT
+  url: /cpcyt
+  excerpt: Espacio para hacer del conocimiento p&uacute;blico los encuentros llevados a cabo con la Comisi&oacute;n Permanente de Ciencia y Tecnolog&iacute;a de la Asamblea Nacional.
+  image:
+
+- title: Documentos
+  url: /docs
+  excerpt: Minutas de las reuniones internas de la CSLVE, documentos propositivos, proyectos, estad&iacute;sticas, infograf&iacute;as, etc.
+  image:
+
+- title: Galería
+  url: /galeria
+  excerpt: Memoria fotográfica.
+  image:
+
+- title: Contacto
+  url: /contacto
+  excerpt: Formulario de contacto, enlaces al repo de Github y demás enlaces.
+  image:
+
